@@ -24,28 +24,8 @@ I'm a Mechatronics Engineering undergrad who fell in love with building software
 When I'm not shipping features, I'm exploring computer networks, IoT, and astronomy — always curious about how systems connect, whether that's a codebase or the cosmos.
 
 - 🔭 Currently building **[OrbitEngine](https://github.com/nandhakrishnanp/orbitengine)** — a cloud coding agent that clones your repo into an isolated sandbox, edits code, runs a real browser, and opens PRs, just from a chat
-- 🌱 Currently deepening my skills in **Transformers, LLM agents, and Generative AI** (coursework + Microsoft's Generative AI Essentials)
+- 🌱 Currently deepening my skills in **Transformers, LLM agents, and Generative AI** 
 - 💬 Ask me about **React Native, LangGraph agent workflows, or RAG architectures**
-- ⚡ Fun fact: 500+ problems solved on LeetCode with a 365-day solve streak
-
----
-
-### 🎓 Education
-
-| Institution | Degree | Duration | Score |
-|---|---|---|---|
-| **Sri Krishna College of Engineering and Technology** | B.E. Mechatronics Engineering | 2023 – 2027 | CGPA: **9.20 / 10.0** |
-| **Swami Vivekananda Vidyalaya Mat Hr Sec School** | Computer Science (Topper) | Graduated May 2023 | **90.10%** |
-
----
-
-### 💼 Experience
-
-**Frontend Developer Intern — [Mealzy](https://github.com/nandhakrishnanp/Mealzy-Health)** · *May 2025 – Jun 2025 · Coimbatore, Tamil Nadu*
-- Developed 5+ core features of the Mealzy mobile app using **React Native**, integrating **GraphQL APIs** for efficient real-time data handling
-- Built a **Recipe Graph** feature in the Mealzy Chef app that recommends similar recipes, cutting cooking time by **30%**
-- Designed and implemented 10+ core and layout UI components, significantly improving reusability and maintainability
-
 ---
 
 ### 🛠️ Featured Projects
@@ -202,23 +182,3 @@ Skill-sharing platform connecting instructors and learners so they can teach, le
 | 2023 | 🎯 Top 5% | NPTEL — Computer Networks *(9,896 learners)* |
 
 ---
-
-### 📚 Relevant Coursework
-
-`Transformers & Large Language Models` `Generative AI Essentials — Microsoft` `Computer Networks & Internet Protocol — NPTEL` `Object Oriented Programming` `Database Management Systems`
-
-**Interests:** Internet of Things (IoT) · Large Language Models (LLMs)
-
----
-
-<div align="center">
-
-### 📫 Let's build something awesome together
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-nandhakrishnan.me-6C63FF?style=for-the-badge)](https://nandhakrishnan.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandhakrishnanp/)
-[![Gmail](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandhakrishnandev@gmail.com)
-
-*"Learning has only Beginnings"* 😃
-
-</div>
